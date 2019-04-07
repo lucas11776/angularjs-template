@@ -1,0 +1,97 @@
+/* navbar */
+.navbar{
+	width: 100%;
+	height: 60px;
+	background-color: #ddd;
+	padding: 0 20px 0 20px;
+	border-radius: 0;
+	margin: 0;
+	z-index: 10;
+}
+.navbar h2{
+	margin: 0;
+	line-height: 60px;
+	text-indent: 10px;
+}
+.navbar .navbar-btn{
+	float: right;
+	position: relative;
+	bottom: 58px;
+	margin-bottom: -58px;
+}
+.navbar .navbar-btn:hover .humburg{
+	background-color: White;
+}
+.navbar .humburg{
+	width: 30px;
+	height: 5px;
+	background-color: #555;
+	margin: 5px;
+	text-align: right;
+	transition: all .7s ease-in;
+}
+
+/* side navbar */
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 20;
+    top: 0;
+    left: 0;
+    background-color: #ddd;
+    overflow-x: hidden;
+    transition: 0.7s;
+    padding-top: 60px;
+}
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #555;
+    display: block;
+    transition: 0.3s
+}
+.sidenav a strong{
+    color: #000;
+}
+.sidenav a strong span{
+	color: #fff;
+}
+.sidenav a:hover, .offcanvas a:focus{
+    color: #f1f1f1;
+}
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+@media screen and (max-height: 450px){
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+/*footer*/
+.footer{
+	width: 100%;
+	margin-top: 50px;
+	padding: 40px 0 50px;
+	background-color: #ddd;
+	text-align: center;
+}
+.footer .link{
+	font-size: 1.5em;
+	margin: 7px;
+	color: #555;
+	border: 1px solid #555;
+	border-radius: 100%;
+	padding: 10px 15px 10px 15px;
+	transition: .8s;
+}
+.footer .link:hover{
+	background-color: #555;
+	color: #ddd;
+}

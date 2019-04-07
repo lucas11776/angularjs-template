@@ -1,0 +1,182 @@
+@font-face {
+	font-family: '28DaysLater';
+	src: url('28DaysLater.eot');
+	src: local('28DaysLater'), url('28DaysLater.woff') format('woff'), url('28DaysLater.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_13599">Text with this font applied</p> */
+.font-28 {
+	font-family: '28DaysLater' !important;
+}
+
+@font-face {
+	font-family: 'Alexa';
+	src: url('Snickles.eot');
+	src: local('28DaysLater'), url('Snickles.woff') format('woff'), url('Snickles.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_24798">Text with this font applied</p> */
+.font-alex {
+	font-family: 'Alexa' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */
+
+
+@font-face {
+	font-family: 'Sanford0103demo';
+	src: url('Sanford0103demo.eot');
+	src: local('Sanford0103demo'), url('Sanford0103demo.woff') format('woff'), url('Sanford0103demo.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_24798">Text with this font applied</p> */
+.font-san {
+	font-family: 'Sanford0103demo' !important;
+}
+
+@font-face {
+	font-family: 'SweetlyBroken';
+	src: url('SweetlyBroken.eot');
+	src: local('SweetlyBroken'), url('SweetlyBroken.woff') format('woff'), url('SweetlyBroken.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_24798">Text with this font applied</p> */
+.font-SweetlyBroken {
+	font-family: 'SweetlyBroken' !important;
+}
+
+@font-face {
+	font-family: 'WildernessTypefaceRegular';
+	src: url('WildernessTypefaceRegular.eot');
+	src: local('SweetlyBroken'), url('WildernessTypefaceRegular.woff') format('woff'), url('WildernessTypefaceRegular.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_24798">Text with this font applied</p> */
+.font-wild {
+	font-family: 'WildernessTypefaceRegular' !important;
+}
+
+@font-face {
+	font-family: 'ChickenScratch';
+	src: url('ChickenScratch.eot');
+	src: local('ChickenScratch'), url('ChickenScratch.woff') format('woff'), url('ChickenScratch.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_24798">Text with this font applied</p> */
+.font-chicken {
+	font-family: 'ChickenScratch' !important;
+}
+
+@font-face {
+	font-family: '4365';
+	src: url('./4365.eot');
+	src: local('4365'), url('./4365.woff') format('woff'), url('./4365.ttf') format('truetype');
+}
+.font-bold {
+	font-family: '4365' !important;
+}
+
+@font-face {
+	font-family: 'BeautyDemo';
+	src: url('./BeautyDemo.eot');
+	src: local('BeautyDemo'), url('./BeautyDemo.woff') format('woff'), url('./BeautyDemo.ttf') format('truetype');
+}
+.font-Beauty {
+	font-family: 'BeautyDemo' !important;
+}
+
+@font-face {
+	font-family: 'BOLONEWT';
+	src: url('./BOLONEWT.eot');
+	src: local('BOLONEWT'), url('./BOLONEWT.woff') format('woff'), url('./BOLONEWT.ttf') format('truetype');
+}
+.font-BOLONEWT {
+	font-family: 'BOLONEWT' !important;
+}
+
+@font-face {
+	font-family: 'CalifornianFB';
+	src: url('./CalifornianFB.eot');
+	src: local('CalifornianFB'), url('./CalifornianFB.woff') format('woff'), url('./CalifornianFB.ttf') format('truetype');
+}
+.font-CalifornianFB {
+	font-family: 'CalifornianFB' !important;
+}
+
+@font-face {
+	font-family: 'Disclaimer';
+	src: url('./CalifornianFB.eot');
+	src: local('CalifornianFB'), url('./Disclaimer-Plain.otf') format('woff'), url('./Disclaimer-Plain.otf') format('truetype');
+}
+.font-Disclaimer {
+	font-family: 'Disclaimer' !important;
+}
+
+@font-face {
+	font-family: 'HeroLight';
+	src: url('./Hero Light.eot');
+	src: local('Hero Light'), url('./Hero Light.otf') format('woff'), url('./Hero Light.otf') format('truetype');
+}
+.font-HeroLight {
+	font-family: 'HeroLight' !important;
+}
+
+@font-face {
+	font-family: 'Metropolis';
+	src: url('./Metropolis 1920.eot');
+	src: local('Metropolis 1920'), url('./Metropolis 1920.otf') format('woff'), url('./Metropolis 1920.otf') format('truetype');
+}
+.font-Metropolis {
+	font-family: 'Metropolis' !important;
+}
+
+@font-face {
+	font-family: 'Bukhari';
+	src: url('./Bukhari Script.eot');
+	src: local('Metropolis 1920'), url('./Metropolis 1920.ttf') format('woff'), url('./Bukhari Script.ttf') format('truetype');
+}
+.font-Bukhari {
+	font-family: 'Bukhari' !important;
+}
+
+@font-face {
+	font-family: 'Nickainley-Normal';
+	src: url('./Nickainley-Normal.eot');
+	src: local('Nickainley-Normal'), url('./Nickainley-Normal.otf') format('woff'), url('./Nickainley-Normal.otf') format('truetype');
+}
+.font-Nickainley-Normal {
+	font-family: 'Nickainley-Normal' !important;
+}
+
+@font-face {
+	font-family: 'NullFree';
+	src: url('./Null Free.eot');
+	src: local('Null Free'), url('./Null Free.otf') format('woff'), url('./Null Free.otf') format('truetype');
+}
+.font-NullFree {
+	font-family: 'NullFree' !important;
+}
+
+@font-face {
+	font-family: 'subway';
+	src: url('./subway.eot');
+	src: local('subway'), url('./subway.woff') format('woff'), url('./subway.ttf') format('truetype');
+}
+.font-subway {
+	font-family: 'subway' !important;
+}
+
+@font-face {
+	font-family: 'Blacklist';
+	src: url('./TheBlacklist.eot');
+	src: local('TheBlacklist'), url('./TheBlacklist.woff') format('woff'), url('./TheBlacklist.ttf') format('truetype');
+}
+.font-Blacklist {
+	font-family: 'Blacklist' !important;
+}
+
+@font-face {
+	font-family: 'whoa';
+	src: url('./whoa.eot');
+	src: local('whoa'), url('./whoa.woff') format('woff'), url('./whoa.ttf') format('truetype');
+}
+.font-whoa {
+	font-family: 'whoa' !important;
+}
+
+
+

@@ -1,0 +1,99 @@
+/* jumbotron */
+.jumbotron{
+	background-image: url(../images/tools.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 500px;
+	color: White;
+}
+.jumbotron .heading{
+	margin: 90px 0 20px;
+	font-size: 2.5em;
+}
+.jumbotron .text{
+	font-size: 1.8em;
+	margin-bottom: 40px;
+}
+.jumbotron .link{
+	padding: 8px 30px 8px 30px;
+	font-size: 1.3em;
+	border-radius: 0;
+}
+@media(max-width:768px){
+	.jumbotron{
+		min-height: 100%;
+	}
+	.jumbotron .heading{
+		margin-top: 35%;
+	}
+}
+
+
+/* pugin */
+
+.pugin{
+	clear: both;
+}
+.pugin .heading{
+	margin: 90px 0 22px;
+}
+.pugin .sub-heading{
+	margin-bottom: 70px;
+}
+.pugin .item{
+	margin-bottom: 40px;
+}
+.pugin .item .icon{
+	font-size: 2.5em;
+	background-color: #555;
+	color: White;
+	padding: 40px;
+	border-radius: 100%;
+	position: relative;
+	z-index: 1;
+}
+.pugin .item .top{
+	position: relative;
+	bottom: 35px;
+	right: 15px;
+	padding: 10px 15px 10px 15px;
+	margin: -15px;
+	border-radius: 100%;
+	background-color: #fff;
+    border: 2px solid #555;
+	z-index: 2;
+}
+
+
+/* details */
+
+.details{
+	width: 100%;
+	margin: 70px 0;
+	clear: both;
+	text-align: center;
+}
+.details .dark{
+	background-color: #ddd;
+}
+.details .light{
+	background-color: #eee;
+}
+.details .item{
+	width: 25%;
+	float: left;
+	padding: 60px 5% 60px 5%;
+}
+.details .item .icon{
+	font-size: 2.5em;
+	color: #555;
+}
+@media(max-width: 768px){
+	.details .item{
+		width: 50%;
+	}
+	.details .item:nth-child(3){
+		float: right;
+	}
+}

@@ -1,0 +1,89 @@
+@font-face {
+	font-family: 'Assassin';
+	src: url('../font./MNSTRIAL.eot');
+	src: local('Assassin'), url('Assassin$.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_24798">Text with this font applied</p> */
+.font-Assassin {
+	font-family: 'Assassin' !important;
+}
+
+
+@font-face {
+	font-family: 'CANON.ttf';
+	src: url('../font./MNSTRIAL.eot');
+	src: local('CANON'), url('CANON.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_24798">Text with this font applied</p> */
+.font-CANON {
+	font-family: 'CANON.ttf' !important;
+}
+
+
+@font-face {
+	font-family: 'Saturday.ttf';
+	src: url('../font./MNSTRIAL.eot');
+	src: local('Saturday'), url('Saturday.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_24798">Text with this font applied</p> */
+.font-Saturday {
+	font-family: 'Saturday.ttf' !important;
+}
+
+
+@font-face {
+	font-family: 'EDITION.ttf';
+	src: url('../font./MNSTRIAL.eot');
+	src: local('EDITION'), url('EDITION.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_24798">Text with this font applied</p> */
+.font-EDITION{
+	font-family: 'EDITION.ttf' !important;
+}
+
+
+@font-face {
+	font-family: 'HawaiiLover.ttf';
+	src: url('../font./MNSTRIAL.eot');
+	src: local('HawaiiLover'), url('HawaiiLover.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_24798">Text with this font applied</p> */
+.font-HawaiiLover{
+	font-family: 'HawaiiLover.ttf' !important;
+}
+
+
+@font-face {
+	font-family: 'Cherry.ttf';
+	src: url('../font./MNSTRIAL.eot');
+	src: local('Cherry'), url('Cherry.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_24798">Text with this font applied</p> */
+.font-Cherry{
+	font-family: 'Cherry.ttf' !important;
+}
+
+
+
+@font-face {
+	font-family: 'Jonah-Regular.ttf';
+	src: url('../font./MNSTRIAL.eot');
+	src: local('Jonah-Regular'), url('Jonah-Regular.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_24798">Text with this font applied</p> */
+.font-Jonah{
+	font-family: 'Jonah-Regular.ttf' !important;
+}
+
+
+
+@font-face {
+	font-family: 'Brannboll.ttf';
+	src: url('../font./MNSTRIAL.eot');
+	src: local('Brannboll'), url('Brannboll.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_24798">Text with this font applied</p> */
+.font-Brannboll{
+	font-family: 'Brannboll.ttf' !important;
+}
+
