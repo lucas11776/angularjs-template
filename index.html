@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html lang="en-za">
+<head>
+    <base href="/"/>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="AngularJs template for quick startup project using angularJs">
+    <meta name="author" content="Themba Ngubeni">
+    <link rel="icon" href="favicon.ico">
+    <title>AngularJS Template</title>
+    <!-- Bootstrap core CSS -->
+    <link href="./assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="./assets/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <!-- Fonts -->
+    <link href="./assets/font/font.css" rel="stylesheet">
+    <link href="./assets/font-party/font.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="./assets/css/style.css" rel="stylesheet">
+    <link href="./assets/css/navbar.css" rel="stylesheet">
+    <link href="./assets/css/home.css" rel="stylesheet">
+</head>
+<body ng-app="template">
+
+    <!-- navbar -->
+    <navbar></navbar>
+
+    <!-- view injection -->
+    <ng-view></ng-view>
+    
+    <!-- footer -->
+    <footer></footer>
+    
+    <!-- Bootstrp Core -->
+    <script src="./assets/jquery/js/jquery.min.js"></script>
+    <script src="./assets/bootstrap/js/bootstrap.min.js"></script>
+    <!-- AngularJs -->
+    <script src="assets/angular/angular.min.js"></script>
+    <script src="assets/angular/angular-route.min.js"></script>
+    <!-- Angular Application Scripts -->
+    <script src="app/app.js"></script>
+    <!-- Service -->
+    <script src="app/service/data.service.js"></script>
+    <!-- Directive -->
+    <script src="app/directive/navbar.directive.js"></script>
+    <script src="app/directive/footer.directive.js"></script>
+    <!-- Controller -->
+    <script src="app/controller/home.controller.js"></script>
+</body>
+</html>
